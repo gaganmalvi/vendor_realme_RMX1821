@@ -710,7 +710,6 @@ PRODUCT_COPY_FILES += \
     vendor/realme/RMX1821/proprietary/vendor/etc/ipsec/ipsec.d/cacerts/thawte.der:$(TARGET_COPY_OUT_VENDOR)/etc/ipsec/ipsec.d/cacerts/thawte.der \
     vendor/realme/RMX1821/proprietary/vendor/etc/ipsec/ssl/openssl.cnf:$(TARGET_COPY_OUT_VENDOR)/etc/ipsec/ssl/openssl.cnf \
     vendor/realme/RMX1821/proprietary/vendor/etc/ipsec/strongswan.conf:$(TARGET_COPY_OUT_VENDOR)/etc/ipsec/strongswan.conf \
-    vendor/realme/RMX1821/proprietary/vendor/etc/license.lic:$(TARGET_COPY_OUT_VENDOR)/etc/license.lic \
     vendor/realme/RMX1821/proprietary/vendor/etc/mddb/DbgInfo_DSP_MT6771_MOLY_LR12A_R2_PIE_RM_PR1_TC16_SP_V1_P11_2019_05_07_14_46_1_ulwctg_n:$(TARGET_COPY_OUT_VENDOR)/etc/mddb/DbgInfo_DSP_MT6771_MOLY_LR12A_R2_PIE_RM_PR1_TC16_SP_V1_P11_2019_05_07_14_46_1_ulwctg_n \
     vendor/realme/RMX1821/proprietary/vendor/etc/mddb/DbgInfo_LR12A.R2.PIE.RM.PR1.TC16.SP_OPPO6771_18601_MOLY_LR12A_R2_PIE_RM_PR1_TC16_SP_V1_P11_2019_06_03_18_07_1_ulwctg_n:$(TARGET_COPY_OUT_VENDOR)/etc/mddb/DbgInfo_LR12A.R2.PIE.RM.PR1.TC16.SP_OPPO6771_18601_MOLY_LR12A_R2_PIE_RM_PR1_TC16_SP_V1_P11_2019_06_03_18_07_1_ulwctg_n \
     vendor/realme/RMX1821/proprietary/vendor/etc/mddb/MDDB.META.ODB_MT6771_S00_MOLY_LR12A_R2_PIE_RM_PR1_TC16_SP_V1_P11_1_ulwctg_n.XML.GZ:$(TARGET_COPY_OUT_VENDOR)/etc/mddb/MDDB.META.ODB_MT6771_S00_MOLY_LR12A_R2_PIE_RM_PR1_TC16_SP_V1_P11_1_ulwctg_n.XML.GZ \
