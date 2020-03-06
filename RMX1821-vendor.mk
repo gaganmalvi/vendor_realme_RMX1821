@@ -578,7 +578,6 @@ PRODUCT_COPY_FILES += \
     vendor/realme/RMX1821/proprietary/vendor/etc/aurisys_param/Speech_AudioParam.xml:$(TARGET_COPY_OUT_VENDOR)/etc/aurisys_param/Speech_AudioParam.xml \
     vendor/realme/RMX1821/proprietary/vendor/etc/camera/attribute.model:$(TARGET_COPY_OUT_VENDOR)/etc/camera/attribute.model \
     vendor/realme/RMX1821/proprietary/vendor/etc/camera/cache_data:$(TARGET_COPY_OUT_VENDOR)/etc/camera/cache_data \
-    vendor/realme/RMX1821/proprietary/vendor/etc/camera/license.lic:$(TARGET_COPY_OUT_VENDOR)/etc/camera/license.lic \
     vendor/realme/RMX1821/proprietary/vendor/etc/camera/megviisegment_model:$(TARGET_COPY_OUT_VENDOR)/etc/camera/megviisegment_model \
     vendor/realme/RMX1821/proprietary/vendor/etc/camera/model_mdl_cache:$(TARGET_COPY_OUT_VENDOR)/etc/camera/model_mdl_cache \
     vendor/realme/RMX1821/proprietary/vendor/etc/cdma_ecc_list.xml:$(TARGET_COPY_OUT_VENDOR)/etc/cdma_ecc_list.xml \
